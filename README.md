@@ -1,5 +1,5 @@
 
 <!---
-Its-sayan/Its-sayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sayan@chakraborty/Its-sayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
