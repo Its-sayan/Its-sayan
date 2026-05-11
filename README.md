@@ -56,7 +56,7 @@ Architectures:
 
 ## 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ## ⚙️ Hardware Design & EDA Tools
