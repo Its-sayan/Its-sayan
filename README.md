@@ -4,7 +4,7 @@
 
 ### 🎓 M.Tech VLSI Design Student | ⚡ ASIC / FPGA / SoC Enthusiast | 🔬 Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=RTL+Design+Engineer+in+Progress;Passionate+about+Digital+VLSI+%26+Low+Power+Design;Exploring+ASIC+%7C+FPGA+%7C+RISC-V+Architecture;Researching+Adaptive+Clock+Gating+Techniques" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=ASIC+Design+Engineer+in+Progress;Passionate+about+Digital+VLSI+%26+Low+Power+Design;Exploring+ASIC+%7C+FPGA+%7C+RISC-V+Architecture;Researching+Adaptive+Clock+Gating+Techniques" alt="Typing SVG" />
 
 </div>
 
