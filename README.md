@@ -1,9 +1,9 @@
 <div align="center">
 
-# Sayan Chakraborty (Sonu)
+# Sayan Chakraborty
 
 ### ⚡ "Designing efficient hardware for the future."
-### 🎯 M.Tech VLSI Design | Aspiring ASIC / RTL / FPGA / DV Engineer
+### 🎯 M.Tech VLSI Design | Aspiring ASIC Design Verification Engineer | RTL| FPGA |
 
 <a href="https://www.linkedin.com/in/sayan-chakraborty807">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
