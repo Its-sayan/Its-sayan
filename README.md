@@ -1,132 +1,77 @@
-<div align="center">
+Hi there, I'm Sayan Chakorty 👋
 
-# Hey there 👋, I'm Sayan Chakraborty
+<div align="center">Aspiring ASIC Design & Verification Engineer
 
-### 🎓 M.Tech VLSI Design Student | ⚡ ASIC / FPGA / SoC Enthusiast | 🔬 Researcher
+"From RTL to silicon, building the future of digital hardware."
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=ASIC+Design+Engineer+in+Progress;Passionate+about+Digital+VLSI+%26+Low+Power+Design;Exploring+ASIC+%7C+FPGA+%7C+RISC-V+Architecture;Researching+Adaptive+Clock+Gating+Techniques" alt="Typing SVG" /> -->
+</div><p align="center">
+  <a href="https://www.linkedin.com/in/sayan-chakraborty807">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  <a href="mailto:sayanchakraborty807@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>---
 
-</div>
+🚀 About Me
 
----
-
-# 🚀 About Me
-
-- 🎓 Pursuing **M.Tech in VLSI Design**
-- ⚡ Interested in **ASIC Design, FPGA Development & SoC Architecture**
-- 🔬 Working on **Low Power VLSI Research**
-- 🧠 Passionate about **RTL Design, Digital Electronics & Computer Architecture**
-- 🛠️ Exploring **RISC-V Processor Design**
-- 📚 Currently learning:
-  - Static Timing Analysis (STA)
-  - Physical Design Basics
-  - ASIC Design Flow
-  - Verification Fundamentals
+- 🎓 Electronics & Communication Engineering graduate.
+- 💻 Interested in ASIC Design, RTL Design, and Functional Verification.
+- 🔧 Currently working on RISC-V processor design projects.
+- 📚 Learning Verilog, SystemVerilog, and digital design methodologies.
+- 🌏 Studying Japanese language for future international opportunities.
+- 🔬 Passionate about semiconductor technology and advanced chip design.
 
 ---
 
-# 🔬 Research & Projects
+🛠️ Skills
 
-## 🧪 Hybrid Memristor CMOS Multiplier using Adaptive Clock Gating
-- Designed low-power multiplier architecture
-- Implemented using **Verilog HDL**
-- Simulated on **ModelSim**
+Hardware Design
 
-## ⚡ 8-bit Parity Generator using MGDI Technique
-- Implemented optimized digital circuit
-- Designed using **Cadence Virtuoso**
+"Verilog" (https://img.shields.io/badge/Verilog-blue?style=flat-square)
+"SystemVerilog" (https://img.shields.io/badge/SystemVerilog-orange?style=flat-square)
+"Digital Design" (https://img.shields.io/badge/Digital_Design-green?style=flat-square)
 
-## 📊 Ongoing Research
-### Comparative Analysis of Multiplier Architectures using Adaptive Clock Gating
-Architectures:
-- Array Multiplier
-- Vedic Multiplier
-- Modified Booth Multiplier
-- Wallace Tree Multiplier
+Programming
 
-### Tools Used
-- Quartus Prime Lite
-- ModelSim
-- Verilog HDL
-- Cadence Virtuoso
+"C" (https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+Tools
+
+"Vivado" (https://img.shields.io/badge/Vivado-red?style=flat-square)
+"ModelSim" (https://img.shields.io/badge/ModelSim-blue?style=flat-square)
+"GTKWave" (https://img.shields.io/badge/GTKWave-purple?style=flat-square)
 
 ---
 
-# 🛠️ Tech Stack
+🎯 Current Goals
 
-## 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-## ⚙️ Hardware Design & EDA Tools
-<p align="left">
-
-<img src="https://img.shields.io/badge/Verilog-HDL-orange?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/ModelSim-Simulation-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Quartus-FPGA-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cadence-Virtuoso-red?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/ASIC-Design-success?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/FPGA-Development-informational?style=for-the-badge" />
-
-</p>
+- Build a complete RISC-V processor.
+- Strengthen ASIC Design and Verification skills.
+- Contribute to open-source hardware projects.
+- Secure opportunities in the semiconductor industry.
+- Pursue research and global opportunities in VLSI.
 
 ---
 
-# 📘 Core Skills
+📈 GitHub Stats
 
-```txt
-✔ RTL Design
-✔ Digital Electronics
-✔ FPGA Design
-✔ CMOS VLSI Design
-✔ Verilog HDL
-✔ Low Power Design
-✔ Adaptive Clock Gating
-✔ Timing Concepts
-✔ Computer Architecture
-✔ Semiconductor Fundamentals
-```
+"Sayan's GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
 ---
 
-# 📈 GitHub Stats
+🌱 Currently Learning
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
-</div>
+- SystemVerilog
+- Functional Verification
+- RISC-V Architecture
+- ASIC Design Flow
+- Japanese Language (N5)
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sayan-chakraborty807">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto: sayanchakraborty807@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⚡ “Designing efficient hardware for the future.”
+<div align="center">⚡ "Turning digital logic into real silicon."
 
 </div>
